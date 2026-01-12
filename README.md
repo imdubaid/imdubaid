@@ -1,11 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Improving cloud based files system solutions and implementing microservices architecture.<br><br>🌱 I’m currently learning:<br>Advanced AWS Services and NextJS<br><br>💬 Ask me about:<br>JavaScript, React, ExpressJS, NodeJS, AWS, and any general software development questions.<br><br>⚡ Fun fact:<br>I love exploring new technologies and hanging out with friends!
+## Hi there 👋, I am Ubaid
+I am a Software engineer from Gonda, India
+
+## 💫 About Me:
+💻 Full Stack Engineer | AI/GenAI Enthusiast
+🚀 Building AI-powered apps in cloud storage, hiring, and real-time systems<br>
+⚡ Skilled in React, Next.js, Node.js, MongoDB, PostgreSQL, Python<br>
+🔐 Focused on secure auth (AWS B2C, Google, Microsoft) & scalable backends<br>
+🛠️ Projects: Hiring platform, cloud storage apps, AI CLI coder, GenAI chatbots<br>
+🌱 Exploring GenAI-driven product development<br>
+🌱 I’m currently learning *React Native, Web3*<br>
+📫 email: *hello@mdubaid.in*<br><br> 
+😄 Pronouns: *He/Him*<br><br>
 
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/mdubaid_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdubaidin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdubaid-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdubaidin" height="30" width="40" /></a>
+<a href="https://twitter.com/imdubaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdubaidin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imdubaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdubaidin" height="30" width="40" /></a>
 <a href="https://instagram.com/mdubaid.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdubaid.in" height="30" width="40" /></a>
 </p>
 
