@@ -8,7 +8,7 @@ I am a Software engineer from Gonda, India
 🔐 Focused on secure auth (AWS B2C, Google, Microsoft) & scalable backends<br>
 🛠️ Projects: Hiring platform, cloud storage apps, AI CLI coder, GenAI chatbots<br>
 🌱 Exploring GenAI-driven product development<br>
-🌱 I’m currently learning *React Native, Web3*<br>
+🌱 I’m currently learning *React Native, Devops*<br>
 📫 email: *hello@mdubaid.in*<br><br> 
 😄 Pronouns: *He/Him*<br><br>
 
