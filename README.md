@@ -49,11 +49,6 @@
     </span>
     <span>
       <a href="https://mdubaid.in">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=imdubaid&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
-      </a>
-    </span>
-    <span>
-      <a href="https://mdubaid.in">
         <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=imdubaid&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
       </a>
     </span>
