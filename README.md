@@ -22,7 +22,7 @@
 ⚡ Skilled in React, Next.js, Node.js, MongoDB, PostgreSQL, Python<br>
 🚀 Building AI-powered apps in cloud storage, hiring, and real-time systems<br>
 🔐 Focused on secure auth (AWS B2C, Google, Microsoft) & scalable backends<br>
-📄 Know about my experiences: [resume](https://drive.google.com/file/d/1_LmR9EHNg_JdwhUMx5DQ4rKos3EheaLj/view)<br>
+📄 Know about my experiences: [https://mdubaid.in/resume](https://mdubaid.in/resume)<br>
 🛠️ Projects available at: [https://mdubaid.in/projects](https://mdubaid.in/projects)<br>
 📫 How to reach me: *hello@mdubaid.in*<br><br>
 😄 Pronouns: _He/Him_<br><br>
