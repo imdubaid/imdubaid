@@ -33,7 +33,7 @@
 
 <p align="left">
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,babel,python,fastapi,react,nextjs,express,nestjs,nodejs,electron,android,reactnative,expo,tailwind,bootstrap,materialui,shadcn,framer,figma,reactrouter,redis,postgresql,mongodb,mysql,elasticsearch,kibana,cursor,postman,vscode,androidstudio,chatgpt,claude,prisma,graphql,authjs,reactquery,redux,zustand,pnpm,git,github,githubactions,nginx,vercel,docker,aws,cloudflare,kubernetes,jenkins,linux&theme=dark&titles=true)](https://mdubaid.in)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,js,ts,babel,python,golang,fastapi,react,nextjs,express,nestjs,nodejs,electron,android,reactnative,expo,tailwind,bootstrap,materialui,shadcn,framer,figma,reactrouter,redis,postgresql,mongodb,mysql,elasticsearch,kibana,cursor,postman,vscode,androidstudio,chatgpt,claude,prisma,graphql,authjs,reactquery,redux,zustand,pnpm,git,github,githubactions,nginx,vercel,docker,aws,cloudflare,kubernetes,jenkins,linux&theme=dark&titles=true)](https://mdubaid.in)
 
 </p>
 
